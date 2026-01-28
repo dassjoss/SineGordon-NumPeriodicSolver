@@ -46,7 +46,7 @@ double calcular_carga(const vector<vector<double>>& curr) {
         //}
         //archivo << "\n"; 
     //}
-    //archivo.close();
+    //archivo.close();git
 //}
 int main() { 
     //Se reserva memoria para los tres pasos de tiempo
